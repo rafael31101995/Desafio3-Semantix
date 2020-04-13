@@ -6,6 +6,7 @@ segue abaixo exemplo da chamada e saída esperados:
 > python programa03.py
 2020-03-26 19:16:02
 
+
 Em seguida, coloquem no crontab para que execute a cada minuto, direcionando para um arquivo.
 
 Este direcionamento de arquivo pode ser testado da seguinte forma:
